@@ -12,7 +12,7 @@ We introduce the MetaMIDI Dataset (MMD), a large scale collection of 436,631 MID
 
 # Get the Dataset
 
-**To protect the anonymity of the authors, files have been stored temporarily on google drive. For access to the files please use the link in the footnote. Zenodo will be used to store the dataset after review.**
+The data can be accessed on [Zenodo](https://zenodo.org/record/5142664#.YQN3c5NKgWo). Prospective users must provide their name, institutional affiliation, institutional contact information, the name of their research project, where the research is taking place, and an acknowledgement that they will not share nor distribute the dataset.
 
 Once you have downloaded MMD_audio_matches.tsv, you can use [this script](../master/download_audio.py) to download the 30-second Spotify preview clips.
 
